@@ -1,4 +1,5 @@
 import time 
+import os
 
 mylista = []
 
@@ -110,5 +111,6 @@ if __name__ == "__main__":
     """)
 
     menu()
+    os.system("PAUSE")
 
 
